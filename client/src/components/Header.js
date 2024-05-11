@@ -20,7 +20,7 @@ const Header = ({ title, onAdd, showAdd }) => {
 };
 
 Header.defaultProps = {
-  title: "BIA 2024 Respondendo via pipeline",
+  title: "BIA 2024 Commit Push Vscode / Git / CodePipeline",
 };
 
 export default Header;
